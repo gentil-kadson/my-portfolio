@@ -5,6 +5,7 @@ import TS from "../../assets/ts-icon.png"
 import reactIcon from "../../assets/react-icon.png"
 import english from "../../assets/english.png"
 import chakraUI from "../../assets/chakra-ui-icon.png"
+import Python from "../../assets/python-icon.png"
 
 import Technology from "./Technology"
 
@@ -19,6 +20,7 @@ const Technologies = () => {
                 <Technology image={TS} text="I'm a beginner in TypeScript, but I can handle myself with it on React/NextJS projects! Also, I can code in JavaScript!" 
                 />
                 <Technology image={chakraUI} text="I'm getting started with Chakra UI. This portfolio was built using it."  />
+                <Technology image={Python} text="I know some Python too, although I need to review some OO concepts."/>
             </Flex>
         </>
             
