@@ -7,7 +7,7 @@ const Stats = () => {
         <Flex flexDirection="row" justifyContent="space-between">
             <StatsItem title="6" content="Projects including Python and ReactJS." />
             <StatsItem image={IFRN} content="is the institution I attended high school and am currently graduating." />
-            <StatsItem title="+2" content="Years of experience with web-development, and I'm currently taking part in many projects at my college, which involves web-development!" />
+            <StatsItem title="3" content="Years of experience with web-development, and I'm currently taking part in many projects at my college, which involves web-development!" />
         </Flex>
     );  
 }
